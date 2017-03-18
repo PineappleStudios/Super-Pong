@@ -28,3 +28,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Ignore, but keep on Git
+/SuperPong/ProjectSettings/ProjectVersion.txt
