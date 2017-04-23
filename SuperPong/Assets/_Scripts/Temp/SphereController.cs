@@ -28,9 +28,4 @@ public class SphereController : MonoBehaviour {
 		}
 	}
 
-	public void asdfasdlf ()
-	{
-
-	}
-
 }
